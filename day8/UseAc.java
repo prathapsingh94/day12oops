@@ -66,6 +66,7 @@ public class UseAc {
 			}
 		}
 		System.out.println("Price above 50000 is " + count);
+		System.out.println("Price "+count);
 	}
 
 }
